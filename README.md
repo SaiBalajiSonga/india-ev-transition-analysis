@@ -1,6 +1,6 @@
 # India's EV Transition — State-wise Adoption Trends & Forecasting
 
-Applied Statistics (AIDS) Project — Group 11, IIT Bombay
+Applied Statistics (AIDS) Project — AE 248 Course, IIT Bombay
 
 ## Team
 
