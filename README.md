@@ -20,6 +20,9 @@ regression modelling, and a forecast for when India's national EV share crosses 
 20%, and 30% thresholds. Full methodology, results, and interpretations are in
 `EV_Analysis.ipynb`.
 
+## Video Explanation
+https://github.com/SaiBalajiSonga/india-ev-transition-analysis/issues/1#issue-4492788849
+
 ## Repository Structure
 
 ```
