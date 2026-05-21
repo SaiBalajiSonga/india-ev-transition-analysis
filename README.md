@@ -21,7 +21,7 @@ regression modelling, and a forecast for when India's national EV share crosses 
 `EV_Analysis.ipynb`.
 
 ## Video Explanation
-https://github.com/SaiBalajiSonga/india-ev-transition-analysis/issues/1#issue-4492788849
+https://github.com/user-attachments/assets/223e2fb1-fea7-4a86-a150-824d62d3762d
 
 ## Repository Structure
 
